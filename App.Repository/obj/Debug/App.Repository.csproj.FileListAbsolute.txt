@@ -1,0 +1,18 @@
+C:\Users\ochoavit\source\repos\WebAppClients\App.Repository\obj\Debug\App.Repository.csproj.AssemblyReference.cache
+C:\Users\ochoavit\source\repos\WebAppClients\App.Repository\obj\Debug\App.Repository.csproj.CoreCompileInputs.cache
+C:\Users\ochoavit\source\repos\WebAppClients\App.Repository\bin\Debug\App.Repository.dll
+C:\Users\ochoavit\source\repos\WebAppClients\App.Repository\bin\Debug\App.Repository.pdb
+C:\Users\ochoavit\source\repos\WebAppClients\App.Repository\bin\Debug\App.Domain.dll
+C:\Users\ochoavit\source\repos\WebAppClients\App.Repository\bin\Debug\App.Domain.pdb
+C:\Users\ochoavit\source\repos\WebAppClients\App.Repository\obj\Debug\App.Repository.csproj.CopyComplete
+C:\Users\ochoavit\source\repos\WebAppClients\App.Repository\obj\Debug\App.Repository.dll
+C:\Users\ochoavit\source\repos\WebAppClients\App.Repository\obj\Debug\App.Repository.pdb
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Área de Trabalho\DesafioTempus\Back-End\WebAppClients\App.Repository\bin\Debug\App.Repository.dll
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Área de Trabalho\DesafioTempus\Back-End\WebAppClients\App.Repository\bin\Debug\App.Repository.pdb
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Área de Trabalho\DesafioTempus\Back-End\WebAppClients\App.Repository\bin\Debug\App.Domain.dll
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Área de Trabalho\DesafioTempus\Back-End\WebAppClients\App.Repository\bin\Debug\App.Domain.pdb
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Área de Trabalho\DesafioTempus\Back-End\WebAppClients\App.Repository\obj\Debug\App.Repository.csproj.AssemblyReference.cache
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Área de Trabalho\DesafioTempus\Back-End\WebAppClients\App.Repository\obj\Debug\App.Repository.csproj.CoreCompileInputs.cache
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Área de Trabalho\DesafioTempus\Back-End\WebAppClients\App.Repository\obj\Debug\App.Repository.csproj.CopyComplete
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Área de Trabalho\DesafioTempus\Back-End\WebAppClients\App.Repository\obj\Debug\App.Repository.dll
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Área de Trabalho\DesafioTempus\Back-End\WebAppClients\App.Repository\obj\Debug\App.Repository.pdb

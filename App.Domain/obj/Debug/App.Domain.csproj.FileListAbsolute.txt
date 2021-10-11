@@ -1,0 +1,12 @@
+C:\Users\ochoavit\source\repos\WebAppClients\App.Domain\bin\Debug\App.Domain.dll
+C:\Users\ochoavit\source\repos\WebAppClients\App.Domain\bin\Debug\App.Domain.pdb
+C:\Users\ochoavit\source\repos\WebAppClients\App.Domain\obj\Debug\App.Domain.csproj.AssemblyReference.cache
+C:\Users\ochoavit\source\repos\WebAppClients\App.Domain\obj\Debug\App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ochoavit\source\repos\WebAppClients\App.Domain\obj\Debug\App.Domain.dll
+C:\Users\ochoavit\source\repos\WebAppClients\App.Domain\obj\Debug\App.Domain.pdb
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Área de Trabalho\DesafioTempus\Back-End\WebAppClients\App.Domain\bin\Debug\App.Domain.dll
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Área de Trabalho\DesafioTempus\Back-End\WebAppClients\App.Domain\bin\Debug\App.Domain.pdb
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Área de Trabalho\DesafioTempus\Back-End\WebAppClients\App.Domain\obj\Debug\App.Domain.csproj.AssemblyReference.cache
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Área de Trabalho\DesafioTempus\Back-End\WebAppClients\App.Domain\obj\Debug\App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Área de Trabalho\DesafioTempus\Back-End\WebAppClients\App.Domain\obj\Debug\App.Domain.dll
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Área de Trabalho\DesafioTempus\Back-End\WebAppClients\App.Domain\obj\Debug\App.Domain.pdb
